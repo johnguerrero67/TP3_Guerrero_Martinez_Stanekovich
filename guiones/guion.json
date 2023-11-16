@@ -1,0 +1,147 @@
+{   "audio":"audios/fnaf final 2.mp3",
+    "modelo":"modelos/trabajo fnaf.glb",
+    "fondo":"rgb(0,0,0)",
+    "data" :
+        [
+           {
+                "tiempo":"00:00",
+                "duracion":0,
+                "camara":"camara1",
+                "target":[4,-3,-1],
+                "nombre":"vista uno"
+           },
+           {
+               "tiempo":"00:05",
+               "duracion":3000,
+               "camara":"camara1",
+               "target":[4,-4,1],
+               "nombre":"vista dos"
+          },
+          {
+               "tiempo":"00:09",
+               "duracion":3000,
+               "camara":"camara1",
+               "target":[4,-4,-2],
+               "nombre":"vista tres"
+          },
+          {
+               "tiempo":"00:18",
+               "duracion":3000,
+               "camara":"camara1",
+               "target":[4,-4,-4],
+               "nombre":"vista cuatro"
+          },
+          {
+               "tiempo":"00:22",
+               "duracion":3000,
+               "camara":"camara1",
+               "target":[4,-4,-1],
+               "nombre":"vista cinco"
+          },
+          {
+               "tiempo":"01:00",
+               "duracion":3000,
+               "camara":"camara1",
+               "target":[4,-4,-5],
+               "nombre":"vista seis"
+          },
+          {
+               "tiempo":"01:10",
+               "duracion":3000,
+               "camara":[1,-4,-5],
+               "target":[4,-4,-5],
+               "nombre":"vista siete"
+          },
+          {
+               "tiempo":"01:20",
+               "duracion":3000,
+               "camara":[1,-3,-5],
+               "target":[4,-4,-5],
+               "nombre":"vista ocho"
+          },
+          {
+               "tiempo":"01:25",
+               "duracion":3000,
+               "camara":[15,-3,-5],
+               "target":[4,-4,-5],
+               "nombre":"vista nueve"
+          },
+          {
+               "tiempo":"01:30",
+               "duracion":6000,
+               "camara":[15,-3,-5],
+               "target":[4,-4,-500],
+               "nombre":"vista diez"
+          },
+          {
+               "tiempo":"01:40",
+               "duracion":3000,
+               "camara":[25,-3,-5],
+               "target":[4,-4,-600],
+               "nombre":"vista once"
+          },
+          {
+               "tiempo":"01:55",
+               "duracion":5000,
+               "camara":[25,-3,-5],
+               "target":[4,-4,-10],
+               "nombre":"vista doce"
+          },
+          {
+               "tiempo":"02:05",
+               "duracion":5000,
+               "camara":[25,-3,5],
+               "target":[4,-4,-10],
+               "nombre":"vista trece"
+          },
+          {
+               "tiempo":"02:10",
+               "duracion":5000,
+               "camara":[23,-3,5],
+               "target":[4,-4,20],
+               "nombre":"vista catorce"
+          },
+          {
+               "tiempo":"02:15",
+               "duracion":5000,
+               "camara":[23,-3,5],
+               "target":[4,-4,-1],
+               "nombre":"vista quince"
+          },
+          {
+               "tiempo":"02:20",
+               "duracion":5000,
+               "camara":[10,-3,2],
+               "target":[4,-4,9],
+               "nombre":"vista dieciseis"
+          },
+          {
+               "tiempo":"02:25",
+               "duracion":5000,
+               "camara":[4,-3,2],
+               "target":[4,-6,9],
+               "nombre":"vista diecisiete"
+          },
+          {
+               "tiempo":"02:26",
+               "duracion":5000,
+               "camara":[4,-3,2],
+               "target":[1,-8,8],
+               "nombre":"vista dieciocho"
+          },
+          {
+               "tiempo":"02:43",
+               "duracion":5000,
+               "camara":"camara1",
+               "target":[4,-4,-4],
+               "nombre":"vista diecinueve"
+          },
+          {
+               "tiempo":"02:50",
+               "duracion":5000,
+               "camara":"camara1",
+               "target":[4,-3,-1],
+               "nombre":"vista veinte"
+          }
+      ]
+}
